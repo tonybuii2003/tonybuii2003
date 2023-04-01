@@ -24,8 +24,10 @@
   <img align="left" alt="Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&show_icons=true&theme=highcontrast" />
 
 </details>
+
 <br />
 <br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
