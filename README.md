@@ -17,8 +17,13 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonybuii2003&show_icons=true&theme=highcontrast)
+<!-- ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonybuii2003&show_icons=true&theme=highcontrast) -->
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&show_icons=true&theme=highcontrast" />
+
+</details>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
