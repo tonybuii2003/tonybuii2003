@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) and Welcome! I'm Tony 🐉 <br /> **`Computer Science Student @ SBU`**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) and Welcome! I'm Tony 🐉 <br /> <br /> **`Computer Science Student @ SBU`**
 ---
 
 
