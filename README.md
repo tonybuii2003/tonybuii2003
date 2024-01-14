@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) and Welcome!
 ===========================================================================================================================================
 
-Computer Science Student @ SBU
+**`Computer Science Student @ SBU`**
 
 
 I'm a dynamic tech enthusiast and leader, driven by the thrill of innovation and team success. My journey in technology has been marked by a relentless pursuit of learning and building - from coding projects to hackathon prototypes. I thrive in environments where ideas explode and collaboration is key. As a mentor and motivator, I've been known to be the voice that rallies team members towards our shared goals. My technical repertoire includes Python, Java, C/C++, HTML/CSS, JavaScript, TypeScript, SQL, Bash, and Kotlin, complemented by my proficiency in frameworks like Bootstrap, React.js, Node.js, and Express.js. Tools like Git, VS Code, Xcode, Eclipse, and Android Studio are my allies in crafting innovative solutions. Database management is another arena where I excel, with hands-on experience in MongoDB, Firebase, and PostgreSQL. 
