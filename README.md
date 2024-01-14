@@ -43,7 +43,6 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 <br />
 <br />
 <br />
-<br />
 
 <div width="100%" align="center">
   
