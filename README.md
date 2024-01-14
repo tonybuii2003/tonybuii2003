@@ -33,21 +33,21 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/tonybuii2003/MorganStanley-Hackathon" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tonybuii2003/StudyBuddy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /> <br /> <br />
+<div width="100%" align="center"><a href="https://github.com/tonybuii2003/MorganStanley-Hackathon" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tonybuii2003/StudyBuddy" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /> <br /> <br />
 
 <br />
 <br />
 <br />
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/tonybuii2003/SELF-LEARN-PROGRAMMING" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=SELF-LEARN-PROGRAMMING&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/tonybuii2003/SELF-LEARN-PROGRAMMING" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=SELF-LEARN-PROGRAMMING&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   
-  <a href="https://github.com/tonybuii2003/TwitterBot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=TwitterBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/tonybuii2003/TwitterBot" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=TwitterBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div> <br /> <br /> <br />
 
 <br /><br />
 <br />
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/tonybuii2003/InnoTank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=InnoTank&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div width="100%" align="center"><a href="https://github.com/tonybuii2003/InnoTank" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=InnoTank&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a><a href="https://github.com/tonybuii2003/System-Programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=System-Programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
