@@ -49,12 +49,7 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia" height="150"/>
 </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>&nbsp;</p>
 <div width="100%" align="center">
 <a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" height="150" />
