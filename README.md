@@ -40,7 +40,7 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&theme=algolia&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/tonybuii2003">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=10&card_width=320&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=10&card_width=350&theme=algolia" />
 </a>
 
 #
