@@ -36,7 +36,7 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 ### GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&theme=algolia&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
