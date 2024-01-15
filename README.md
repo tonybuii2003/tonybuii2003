@@ -42,15 +42,16 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&show_icons=true&theme=algolia&rank_icon=github" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonybuii2003&layout=compact&theme=algolia&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonybuii2003&layout=compact&theme=algolia&card_width=320&theme=algolia&rank_icon=github" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
+
 #
 
 ### 🧑‍💻 Top Repositories
