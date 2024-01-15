@@ -41,21 +41,43 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 ### 🧑‍💻 Top Repositories
 
-<a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
-</a>
-<a href="https://github.com/tonybuii2003/StudyBuddy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia"/>
-</a>
-<a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
-</a>
-<a href="https://github.com/tonybuii2003/StudyBuddy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia"/>
-</a>
-<a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
-</a>
-<a href="https://github.com/tonybuii2003/StudyBuddy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia"/>
-</a>
+<div style="display: flex; flex-wrap: wrap;">
+
+  <!-- First Row -->
+  <div style="flex: 1; margin-right: 10px;">
+    <a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/tonybuii2003/StudyBuddy">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia"/>
+    </a>
+  </div>
+
+  <!-- Second Row -->
+  <div style="flex: 1; margin-right: 10px; margin-top: 20px;">
+    <a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
+    </a>
+  </div>
+  <div style="flex: 1; margin-top: 20px;">
+    <a href="https://github.com/tonybuii2003/StudyBuddy">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia"/>
+    </a>
+  </div>
+
+  <!-- Third Row -->
+  <div style="flex: 1; margin-right: 10px; margin-top: 20px;">
+    <a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
+    </a>
+  </div>
+  <div style="flex: 1; margin-top: 20px;">
+    <a href="https://github.com/tonybuii2003/StudyBuddy">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia"/>
+    </a>
+  </div>
+
+</div>
+
