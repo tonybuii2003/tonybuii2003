@@ -36,10 +36,10 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 ### GitHub Stats
 
-<a >
+<a href="https://github.com/tonybuii2003?tab=overview&from=2024-01-01&to=2024-01-14">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&theme=algolia&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/tonybuii2003">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
