@@ -34,6 +34,11 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 #
 
+### GitHub Stats
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonybuii2003&show_icons=true&theme=algolia&rank_icon=github)
+
+#
+
 ### 🧑‍💻 Top Repositories
 
 <div width="100%" align="center">
