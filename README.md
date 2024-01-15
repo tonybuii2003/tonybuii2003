@@ -41,9 +41,9 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 ### 🧑‍💻 Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/tonybuii2003/MorganStanley-Hackathon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=MorganStanley-Hackathon&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/tonybuii2003/StudyBuddy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia" />
 </a>
