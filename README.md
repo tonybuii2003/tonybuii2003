@@ -8,7 +8,7 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [tonybui5503@gmail.com](mailto:tonybui5503@gmail.com)
-* 🧠  I'm learning Natural Language Processing, PyTorch, Advanced Python Technique
+* 🧠  I'm learning Advanced Python Technique, "Attention is All You Need" For NLP Research
 * ⚡  Fun fact: I've traveled over 10 countries!
 
 #
