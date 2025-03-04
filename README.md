@@ -2,13 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 **`Computer Science Student @ SBU`**
 
-I'm a dynamic tech enthusiast and leader, driven by the thrill of innovation and team success. My journey in technology has been marked by a relentless pursuit of learning and building - from coding projects to hackathon prototypes. I thrive in environments where ideas explode and collaboration is key. As a mentor and motivator, I've been known to be the voice that rallies team members towards our shared goals. My technical repertoire includes Python, Java, C/C++, HTML/CSS, JavaScript, TypeScript, SQL, Bash, and Kotlin, complemented by my proficiency in frameworks like Bootstrap, React.js, Node.js, and Express.js. Tools like Git, VS Code, Xcode, Eclipse, and Android Studio are my allies in crafting innovative solutions. Database management is another arena where I excel, with hands-on experience in MongoDB, Firebase, and PostgreSQL. 
+I'm a dynamic tech leader passionate about innovation and teamwork. My journey spans coding projects and hackathon prototypes, driven by continuous learning and creative problem solving. As a CS senior specializing in AI and Data Science, I've streamlined data pipelines and built innovative applications—from intelligent tour guides to data-driven analysis platforms. Highly analytical and adaptable, I thrive in collaborative environments, mentoring peers and rallying teams toward shared goals. Proficient in Python, Java, and modern frameworks, I'm eager to drive technical innovation in a dynamic role.
 
 I invite you to explore my coding journey on GitHub and connect with me for collaborative opportunities or tech conversations!
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [tonybui5503@gmail.com](mailto:tonybui5503@gmail.com)
-* 🧠  I'm learning Advanced Python Technique, "Attention is All You Need" For NLP Research
+* 🧠  I'm currently building an LLM Agent (RAG system)
 * ⚡  Fun fact: I've traveled over 10 countries!
 
 #
