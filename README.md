@@ -33,10 +33,13 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 #
 
 ### 🧑‍💻 Top Repositories
-
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=votifier&theme=algolia)](https://github.com/tonybuii2003/votifier) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=Fake-Stack-Overflow&theme=algolia)](https://github.com/tonybuii2003/Fake-Stack-Overflow) |
+| --- | --- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=WasteNoBites&theme=algolia)](https://github.com/tonybuii2003/WasteNoBites) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia)](https://github.com/tonybuii2003/StudyBuddy) |
 | --- | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=votifier&theme=algolia)](https://github.com/tonybuii2003/votifier) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=Fake-Stack-Overflow&theme=algolia)](https://github.com/tonybuii2003/Fake-Stack-Overflow) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=WasteNoBites&theme=algolia)](https://github.com/tonybuii2003/WasteNoBites) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonybuii2003&repo=StudyBuddy&theme=algolia)](https://github.com/tonybuii2003/StudyBuddy) |
+
+
 
 
 
