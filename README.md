@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) and Welcome! I'm Tony 🐉
 ---
-**`AI Research Software Engineer @ Stanford HAI`**
+**`AI Research Software Engineer @ Stanford HAI 🌲`**
 
 I'm a dynamic tech leader passionate about innovation and teamwork. My journey spans coding projects and hackathon prototypes, driven by continuous learning and creative problem solving. As a CS senior specializing in AI and Data Science, I've streamlined data pipelines and built innovative applications—from intelligent tour guides to data-driven analysis platforms. Highly analytical and adaptable, I thrive in collaborative environments, mentoring peers and rallying teams toward shared goals. Proficient in Python, Java, and modern frameworks, I'm eager to drive technical innovation in a dynamic role.
 
