@@ -6,9 +6,9 @@ I'm a dynamic tech leader passionate about innovation and teamwork. My journey s
 
 I invite you to explore my coding journey on GitHub and connect with me for collaborative opportunities or tech conversations!
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [tonybui5503@gmail.com](mailto:tonybui5503@gmail.com)
-* 🧠  I'm currently building an LLM Agent (RAG system)
+* 🧠  I'm currently building the next AI innovation for health and well-being
 * ⚡  Fun fact: I've traveled over 10 countries!
 
 #
