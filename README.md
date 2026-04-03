@@ -25,13 +25,12 @@ I invite you to explore my coding journey on GitHub and connect with me for coll
 
 <p align="center">
   <a href="https://github.com/tonybuii2003">
-    <img height="200" src="https://github-readme-stats-eight.vercel.app/api?username=tonybuii2003&theme=algolia&show_icons=true&rank_icon=github" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=tonybuii2003&theme=algolia&show_icons=true&hide_rank=true" alt="Tony's GitHub stats" />
   </a>
   <a href="https://github.com/tonybuii2003">
-    <img height="200" src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=12&theme=algolia" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonybuii2003&layout=compact&langs_count=10&theme=algolia" alt="Tony's Top Languages" />
   </a>
 </p>
-
 
 
 
